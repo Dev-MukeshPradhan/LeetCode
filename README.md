@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0292-nim-game) |
 ## Simulation
 |  |
 | ------- |
@@ -84,4 +85,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
