@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0001-two-sum) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
