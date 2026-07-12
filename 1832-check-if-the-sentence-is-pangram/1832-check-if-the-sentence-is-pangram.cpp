@@ -4,8 +4,8 @@ public:
         int index;
         vector<bool>alpha(26,0);
         for(int i=0; i<sentence.size(); i++){
-            index=sentence[i]-'a';
-            alpha[index]=1;
+            //index=sentence[i]-'a';
+            alpha[sentence[i]-'a']=1;
         }
         for(int i=0; i<26; i++){
             if(alpha[i]==0){
