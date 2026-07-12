@@ -100,9 +100,14 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1108-defanging-an-ip-address) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
