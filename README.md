@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
@@ -111,5 +113,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
