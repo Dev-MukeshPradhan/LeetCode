@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1859-sorting-the-sentence](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
