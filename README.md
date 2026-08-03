@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0258-add-digits) |
@@ -51,6 +52,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
