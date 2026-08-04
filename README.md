@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
