@@ -17,17 +17,11 @@ public:
             len++;
             temp=temp->next;
         }
-        if(len==1){
+        if(len==n){
             head=head->next;
             return head;
         }
-        // Removing the head node
-        if (n == len) {
-            ListNode* toDelete = head;
-            head = head->next;
-            delete toDelete;
-            return head;
-        }
+        
         int nth_end=len-n+1;
         temp=head;
         for(int i=1; i<nth_end-1; i++){
