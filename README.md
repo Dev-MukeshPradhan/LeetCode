@@ -78,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
@@ -90,6 +91,7 @@
 | [0125-valid-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -163,6 +165,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
