@@ -6,16 +6,15 @@ public:
         ListNode* c = new ListNode(10);
         ListNode* tc=c;
         while(ta!=NULL && tb!=NULL){
-            if(ta->val >= tb->val){
-                ListNode* t = new ListNode(tb->val);
-                tc->next=t;  // you should have a node to add to next node of new linkedList C
-                tc=t;
-                tb=tb->next;
-            }else{
-                ListNode* t = new ListNode(ta->val);
-                tc->next=t;  // you should have a node to add to next node of new linkedList C
-                tc=t;
+            if(ta->val <= tb->val){
+                tc->next=ta;
                 ta=ta->next;
+                tc=tc->next;
+
+            }else{
+                tc->next=tb;
+                tb=tb->next;
+                tc=tc->next;
 
             }
         }
