@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
