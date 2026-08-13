@@ -1,39 +1,45 @@
 class Solution {
 public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev=NULL;
+        ListNode* curr=head;
+        ListNode* Next=head;
+        while(curr){
+            Next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=Next;
+        }
+        return prev;
+        
+    }
     void reorderList(ListNode* head) {
-        if (head == NULL || head->next == NULL)
-            return;
-
-        vector<int> values;
-
-        ListNode* temp = head;
-
-        // Store all values
-        while (temp != NULL) {
-            values.push_back(temp->val);
-            temp = temp->next;
+        if(head==NULL || head->next==NULL) return;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=NULL && fast->next->next!=NULL){
+            fast=fast->next->next;
+            slow=slow->next;
         }
-
-        int i = 0;
-        int j = values.size() - 1;
-
-        temp = head;
-
-        // Change only node values
-        while (i <= j) {
-            if (i == j) {
-                temp->val = values[i];
-                break;
-            }
-
-            temp->val = values[i];
-            temp = temp->next;
-
-            temp->val = values[j];
-            temp = temp->next;
-
-            i++;
-            j--;
+        ListNode* first=head;
+        ListNode* b=slow->next;
+        slow->next=NULL;
+        ListNode* second=reverseList(b);
+        ListNode* c=new ListNode(0);
+        ListNode* tempC=c;
+        while(first!=NULL && second!=NULL){
+            tempC->next=first;
+            first=first->next;
+            tempC=tempC->next;
+            tempC->next=second;
+            second=second->next;
+            tempC=tempC->next;
         }
+        // Attach remaining nodes
+        if (first != NULL)
+            tempC->next = first;
+        else
+            tempC->next = second;
+        
     }
 };
