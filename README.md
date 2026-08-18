@@ -115,6 +115,7 @@
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1859-sorting-the-sentence) |
