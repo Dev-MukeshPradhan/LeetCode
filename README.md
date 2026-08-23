@@ -59,6 +59,7 @@
 | [0035-search-insert-position](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Brainteaser
 |  |
 | ------- |
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
