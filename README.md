@@ -70,6 +70,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,11 +119,13 @@
 | [0143-reorder-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Brainteaser
 |  |
 | ------- |
