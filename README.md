@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0258-add-digits) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -71,6 +72,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
@@ -122,6 +124,7 @@
 | [0155-min-stack](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -241,6 +244,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
