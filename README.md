@@ -64,6 +64,7 @@
 | [0162-find-peak-element](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -197,6 +198,7 @@
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -246,4 +249,5 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
