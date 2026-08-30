@@ -24,6 +24,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -60,6 +61,7 @@
 | [0035-search-insert-position](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0162-find-peak-element) |
@@ -257,4 +259,8 @@
 | [0155-min-stack](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
