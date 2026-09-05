@@ -17,8 +17,8 @@ public:
         }
         int dia = levels(root->left) + levels(root->right);
         maxD=max(maxD,dia);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
+        helper(root->left);
+        helper(root->right);
 
     }
     int maxD=0;
