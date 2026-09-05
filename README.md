@@ -150,6 +150,7 @@
 | [0020-valid-parentheses](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0796-rotate-string) |
@@ -263,12 +264,14 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -276,6 +279,7 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -283,6 +287,7 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
