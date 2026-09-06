@@ -271,6 +271,7 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -279,6 +280,7 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -287,6 +289,7 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -299,4 +302,12 @@
 | [0100-same-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
