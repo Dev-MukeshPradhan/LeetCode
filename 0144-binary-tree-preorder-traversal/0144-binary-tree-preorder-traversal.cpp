@@ -13,8 +13,7 @@ class Solution {
 public:
     void itPre(TreeNode* root, vector<int>&ans){
         stack<TreeNode*> st;
-        st.push(root);
-        if(root==NULL) return;
+        if(root!=NULL) st.push(root);;
         while(st.size()>0){
             TreeNode* temp = st.top();
             st.pop();
