@@ -13,7 +13,5 @@ public:
         helper(root,count,(long long)targetSum);
         count += (pathSum(root->left,targetSum) + pathSum(root->right,targetSum));
         return count;
-        
-        
     }
 };
