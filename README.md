@@ -64,6 +64,7 @@
 | [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -84,6 +85,7 @@
 | [0001-two-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
@@ -281,6 +284,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -316,6 +320,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
