@@ -75,6 +75,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -136,6 +137,7 @@
 | [0155-min-stack](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Brainteaser
 |  |
@@ -306,6 +309,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -352,6 +356,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
@@ -385,5 +390,6 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
