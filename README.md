@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0292-nim-game) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -411,4 +414,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
