@@ -11,7 +11,7 @@ public:
             int b = (i / 10) % 10;
             int c = i / 100;
 
-            if(m[c] > 0) {
+            if(m[c] > 0) { // great move instead of finding elemnent just get copunt of their frequency
                 m[c]--;
                 if(m[b] > 0) {
                     m[b]--;
