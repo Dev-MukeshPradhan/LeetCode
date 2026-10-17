@@ -19,6 +19,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Number Theory
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,4 +445,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
