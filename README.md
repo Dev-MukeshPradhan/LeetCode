@@ -86,6 +86,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -108,6 +109,7 @@
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -120,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
