@@ -89,6 +89,7 @@
 | [0658-find-k-closest-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -221,6 +222,7 @@
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0860-lemonade-change) |
 ## String Matching
 |  |
 | ------- |
