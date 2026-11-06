@@ -71,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0680-valid-palindrome-ii) |
