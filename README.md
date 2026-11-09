@@ -92,6 +92,7 @@
 | [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -175,6 +176,7 @@
 | [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
