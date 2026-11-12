@@ -8,8 +8,9 @@ public:
             return 0;
         }
         // if we are able to reach starting cell, the only valid case
-        if(m==0 && n==0) return 1;
         if(dp[m][n]!=-1) return dp[m][n];
+        if(m==0 && n==0) return 1;
+        
         int up = helper(obstacleGrid, m - 1, n, dp);
         int left = helper(obstacleGrid, m, n - 1, dp);
         dp[m][n]= up + left;
