@@ -76,6 +76,7 @@
 | [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0078-subsets) |
@@ -180,6 +181,7 @@
 | [0055-jump-game](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -513,6 +515,7 @@
 | [0048-rotate-image](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bucket Sort
