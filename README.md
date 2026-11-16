@@ -103,6 +103,7 @@
 | [0860-lemonade-change](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0931-minimum-falling-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -189,6 +190,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -519,6 +521,7 @@
 | [0063-unique-paths-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bucket Sort
 |  |
