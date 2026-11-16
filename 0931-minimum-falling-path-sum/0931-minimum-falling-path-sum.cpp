@@ -1,28 +1,41 @@
 class Solution {
 public:
-    int helper(vector<vector<int>>& matrix, int i, int j, vector<vector<int>>& dp){
-        // Always keep in mind to put the boundary overflow coditions at the top
-        if(i<0 || j<0) return 1e8;
-        if(j>matrix.size()-1) return 1e8;
-        if(i==0) return matrix[i][j];
-
-        if(dp[i][j]!=1e8) return dp[i][j];
-        
-        int up=matrix[i][j]+helper(matrix, i-1, j, dp);
-        int upl=matrix[i][j]+helper(matrix, i-1, j-1, dp);
-        int upr=matrix[i][j]+helper(matrix, i-1, j+1, dp);
-        dp[i][j]= min(up, min(upl,upr));
-        return dp[i][j];
-
-    }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int n=matrix.size();
-        int mini=1e8;
+        int n = matrix.size();
+
         vector<vector<int>> dp(n, vector<int>(n, 1e8));
-        for(int j=0; j<n; j++){
-            mini=min(mini, helper(matrix, n-1, j, dp));
+
+        for(int j = 0; j < n; j++){
+            dp[0][j] = matrix[0][j];
         }
+
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < n; j++){
+
+                int dn = matrix[i][j] + dp[i-1][j];
+
+                int dnl = matrix[i][j];
+                if(j > 0)
+                    dnl += dp[i-1][j-1];
+                else
+                    dnl = 1e8;
+
+                int dnr = matrix[i][j];
+                if(j < n-1)
+                    dnr += dp[i-1][j+1];
+                else
+                    dnr = 1e8;
+
+                dp[i][j] = min(dn, min(dnl, dnr));
+            }
+        }
+
+        int mini = 1e8;
+
+        for(int j = 0; j < n; j++){
+            mini = min(mini, dp[n-1][j]);
+        }
+
         return mini;
-        
     }
 };
