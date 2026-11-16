@@ -5,22 +5,21 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<vector<int>>> dp(
-            m, vector<vector<int>>(n, vector<int>(n, -1)));
+        vector<vector<int>> prev(n, vector<int>(n, 0));
+        vector<vector<int>> curr(n, vector<int>(n, 0));
 
         // Base case
         for (int j1 = 0; j1 < n; j1++) {
             for (int j2 = 0; j2 < n; j2++) {
                 if (j1 == j2) {
-                    dp[m - 1][j1][j2] = grid[m - 1][j1];
+                    prev[j1][j2] = grid[m - 1][j1];
                 } else {
-                    dp[m - 1][j1][j2] =
-                        grid[m - 1][j1] + grid[m - 1][j2];
+                    prev[j1][j2] = grid[m - 1][j1] + grid[m - 1][j2];
                 }
             }
         }
 
-        // Tabulation
+        // Tabulation with space optimization
         for (int i = m - 2; i >= 0; i--) {
             for (int j1 = 0; j1 < n; j1++) {
                 for (int j2 = 0; j2 < n; j2++) {
@@ -41,7 +40,7 @@ public:
                             if (j1 + dj1 >= 0 && j1 + dj1 < n &&
                                 j2 + dj2 >= 0 && j2 + dj2 < n) {
 
-                                value += dp[i + 1][j1 + dj1][j2 + dj2];
+                                value += prev[j1 + dj1][j2 + dj2];
                             }
                             else {
                                 value += -1e8;
@@ -51,11 +50,13 @@ public:
                         }
                     }
 
-                    dp[i][j1][j2] = maxi;
+                    curr[j1][j2] = maxi;
                 }
             }
+
+            prev = curr;
         }
 
-        return dp[0][0][n - 1];
+        return prev[0][n - 1];
     }
 };
