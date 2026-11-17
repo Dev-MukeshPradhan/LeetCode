@@ -93,6 +93,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0455-assign-cookies) |
 | [0622-design-circular-queue](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0622-design-circular-queue) |
@@ -188,6 +189,7 @@
 | [0120-triangle](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -546,4 +548,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Dev-MukeshPradhan/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
